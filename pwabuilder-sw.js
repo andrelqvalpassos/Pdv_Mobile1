@@ -2,7 +2,7 @@
 
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
 
-const CACHE = "pwabuilder-page";
+const CACHE = "pwaVerti";
 const urlsToCache = [
   '/index.html',
   '/assets/css/main.css',
