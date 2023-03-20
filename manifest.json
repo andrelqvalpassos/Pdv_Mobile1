@@ -1,0 +1,40 @@
+{
+  "background_color": "#31506F",
+  "description": "Aplicação para fluxo de caixa e estoque",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PWA Teste",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PWA Teste",
+  "start_url": "/",
+  "theme_color": "#4D5360",
+  "categories": [
+    "finance"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "images/images (3).jpg",
+      "type": "image/jpeg",
+      "sizes": "225x225"
+    },
+    {
+      "src": "images/maskable_icon.png",
+      "type": "image/png",
+      "sizes": "225x225"
+    },
+    {
+      "src": "assets/img/favicon1.png"
+    },
+    {
+      "src": "touch-icon-iphone.png"
+    },
+    {
+      "src": "/images/ios/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "shortcuts": []
+}
